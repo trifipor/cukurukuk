@@ -29,4 +29,12 @@ p {
     margin: 0;
 }
 
+.foto {
+    margin-top: 2rem;
+    max-width: 320px;
+    width: 100%;
+    border-radius: 16px;
+    box-shadow: 0 2px 16px 0 rgba(0,0,0,0.08);
+}
+
 /* awdka */
