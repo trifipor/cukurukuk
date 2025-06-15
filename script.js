@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (h1) {
         h1.style.cursor = 'pointer';
         h1.addEventListener('click', function() {
-            window.location.href = 'foto.html';
+            window.location.href = 'tiwi.html';
         });
     }
 });
